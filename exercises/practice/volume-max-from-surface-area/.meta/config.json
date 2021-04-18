@@ -1,0 +1,21 @@
+{
+  "blurb": "Find side length and height of maximimizing volume open rectangular prism given surface area",
+  "authors": [
+    "CSwift8"
+  ],
+  "contributors": [
+  ],
+  "files": {
+    "solution": [
+      "max_volume_from_sa.py"
+    ],
+    "test": [
+      "max_volume_from_sa_test.py"
+    ],
+    "example": [
+      "max_volume_from_sa_example.py"
+    ]
+  },
+  "source": "This is an exercise to introduce users to the optimization limitations in Z3",
+  "source_url": ""
+}
